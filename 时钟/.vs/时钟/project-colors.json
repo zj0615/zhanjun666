@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "643d4528-74d2-4c15-9a96-b8c8a96e4ce3": {
+      "ProjectGuid": "643d4528-74d2-4c15-9a96-b8c8a96e4ce3",
+      "DisplayName": "时钟",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

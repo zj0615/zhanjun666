@@ -1,0 +1,9 @@
+﻿  复制了 0 个文件
+  复制了 0 个文件
+  复制了 0 个文件
+  复制了 0 个文件
+  Main.c
+E:\c语言\时钟\Main.c(38,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c语言\时钟\Main.c(43,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c语言\时钟\Main.c(48,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  时钟.vcxproj -> E:\c语言\时钟\Debug\时钟.exe

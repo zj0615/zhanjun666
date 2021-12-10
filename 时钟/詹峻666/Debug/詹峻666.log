@@ -1,0 +1,8 @@
+﻿  复制了 0 个文件
+  复制了 0 个文件
+  复制了 0 个文件
+  复制了 0 个文件
+  Main.c
+e:\c语言\詹峻666\main.c(18): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+  詹峻666.vcxproj -> E:\c语言\詹峻666\Debug\詹峻666.exe
